@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @montychristo
-- 📫 How to reach me - DM me on twitter @montychrist0
+- 📫 How to reach me - DM me on x.com @montychrist0
+- Thoughts and musings on Engineering Teams: https://chrisrose.dev/
 
 <!---
 montychristo/montychristo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
