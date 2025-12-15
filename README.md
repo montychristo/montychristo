@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @montychristo
-- 👀 I’m interested in decentralised technology
-- 🌱 I’m currently learning smart contracts
-- 💞️ I’m looking to collaborate on Dapps and layer 2 solutions
 - 📫 How to reach me - DM me on twitter @montychrist0
 
 <!---
